@@ -1,0 +1,23 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "Collection of React Hooks ready to install with NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddoniddoni/React-Hooks.git"
+  },
+  "author": "DDoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddoniddoni/React-Hooks/issues"
+  },
+  "homepage": "https://github.com/ddoniddoni/React-Hooks#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
