@@ -13,7 +13,16 @@ Collection of React Hooks ready to install with NPM
 - [x] useClick
       (누군가 element를 클릭하는 시점을 발견)
 
-- [x] usePageLeave
+- [x] useHover
+      (누군가 element에 마우스을 올렸을 때)
+
+- [x] useConfirm
+      (usePreventLeave와 기능이 비슷함)
+
+- [x] usePreventLeave
+      (유저가 변경사항이나 무엇이든간에 저장하지 않고 페이지를 벗어나길 원할때 확인)
+
+- [ ] usePageLeave
       (유저가 Page를 벗어나는 시점을 발견하고 함수 실행)
 
 - [ ] useFadeIn
@@ -37,11 +46,5 @@ Collection of React Hooks ready to install with NPM
 - [ ] useTabs
       (웹사이트에 멘 또는 무엇이든 간에 tab을 사용하기 쉽게)
 
-- [ ] usePreventLeave
-      (유저가 변경사항이나 무엇이든간에 저장하지 않고 페이지를 벗어나길 원할때 확인)
-
-- [ ] useConfirm
-      (usePreventLeave와 기능이 비슷함)
-
-- [ ] useAxios
+* [ ] useAxios
       (HTTP requests client axois를 위한 wrapper)
