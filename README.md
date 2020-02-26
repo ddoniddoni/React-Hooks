@@ -22,7 +22,7 @@ Collection of React Hooks ready to install with NPM
 - [x] usePreventLeave
       (유저가 변경사항이나 무엇이든간에 저장하지 않고 페이지를 벗어나길 원할때 확인)
 
-- [ ] usePageLeave
+- [x] useBeforeLeave
       (유저가 Page를 벗어나는 시점을 발견하고 함수 실행)
 
 - [ ] useFadeIn
