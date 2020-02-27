@@ -9,6 +9,7 @@ Collection of React Hooks ready to install with NPM
       (input 역할)
 
 - [x] useTabs
+      (웹사이트에 멘 또는 무엇이든 간에 tab을 사용하기 쉽게)
 
 - [x] useClick
       (누군가 element를 클릭하는 시점을 발견)
@@ -31,20 +32,14 @@ Collection of React Hooks ready to install with NPM
 - [x] useNetwork
       (online, offline 상태 감지)
 
+- [x] useScroll
+      (스크롤 사용할 때 감지)
+
 - [ ] useFullscreen
       (어떤 element든 풀스크린으로 만들거나 일반 화면으로 돌아가게 만듬)
 
-- [ ] useHover
-      (어떤 것에 마우스를 올렸을 때 감지 )
-
-* [ ] useNotification
+- [ ] useNotification
       (Notification API를 사용할 때 유저에게 알림)
-
-* [ ] useScroll
-      (스크롤 사용할 때 감지)
-
-* [ ] useTabs
-      (웹사이트에 멘 또는 무엇이든 간에 tab을 사용하기 쉽게)
 
 - [ ] useAxios
       (HTTP requests client axois를 위한 wrapper)
