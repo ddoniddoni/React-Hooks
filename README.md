@@ -38,8 +38,8 @@ Collection of React Hooks ready to install with NPM
 - [x] useFullscreen
       (어떤 element든 풀스크린으로 만들거나 일반 화면으로 돌아가게 만듬)
 
-- [ ] useNotification
+- [x] useNotification
       (Notification API를 사용할 때 유저에게 알림)
 
-- [ ] useAxios
+- [x] useAxios
       (HTTP requests client axois를 위한 wrapper)
